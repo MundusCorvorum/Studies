@@ -9,5 +9,10 @@ On the first day, Angela presented basic concepts and built-in Python functions.
 ### Built-in functions
 
 - print()
-print("Hello, GitHub. Jesus is King.")`
+- 
+'''
+python
+print("Hello, GitHub. Jesus is King.")
+'''
+
 This function writes on the terminal screen.
